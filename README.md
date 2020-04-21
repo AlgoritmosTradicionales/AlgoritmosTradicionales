@@ -6,5 +6,5 @@
 - Sol Morelia Velásquez Rodríguez   
 
 # Algoritmos Implementados
-- Algoritmo de Polybios
-- Algoritmo de Hill
+- Algoritmo de Polybios (Polybios)
+- Algoritmo de Hill (HillCode V2)
